@@ -181,11 +181,7 @@ Fingerprint web application frameworks - https://www.youtube.com/watch?v=ASzG0kB
 
 A closer look at all owasp top 10 vulnerabilities - https://www.youtube.com/watch?v=avFR_Af0KGk
 
-
-<br><br>
 ### IBM
-
-
 
 Injection - https://www.youtube.com/watch?v=02mLrFVzIYU&index=1&list=PLoyY7ZjHtUUVLs2fy-ctzZDSPpawuQ28d
 
@@ -210,7 +206,6 @@ Unvalidated redirects and forwards - https://www.youtube.com/watch?v=L6bYKiLtSL8
 
 <br><br>
 ### F5 CENTRAL
-
 
 
 Injection - https://www.youtube.com/watch?v=rWHvp7rUka8&index=1&list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD
@@ -374,8 +369,6 @@ Bypass login panel - case 2 - https://www.youtube.com/watch?v=J6v_W-LFK1c
 <br><br>
 #### Phase 9 - Attacking access controls (IDOR, Priv esc, hidden files and directories)
 
-
-<br>
 ### Completely unprotected functionalities
 
 Finding admin panel - https://www.youtube.com/watch?v=r1k2lgvK3s0
@@ -408,8 +401,6 @@ Privilege escalation - case 2 - https://www.youtube.com/watch?v=-i4O_hjc87Y
 <br><br>
 #### Phase 10 – Attacking Input validations (All injections, XSS and mics)
 
-
-<br>
 ### HTTP verb tampering
 
 Introduction HTTP verb tampering - https://www.youtube.com/watch?v=Wl0PrIeAnhs
