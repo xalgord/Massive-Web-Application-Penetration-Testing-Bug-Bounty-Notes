@@ -670,4 +670,4 @@ Demo 6 - https://hackerone.com/reports/430854
 
 # ENJOY & HAPPY LEARNING! ♥
 
-Follow [@xalgord](https://twitter.com/xalgord/
+Follow [@xalgord](https://twitter.com/xalgord/)
