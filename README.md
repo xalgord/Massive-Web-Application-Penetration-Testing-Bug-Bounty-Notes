@@ -84,7 +84,6 @@ Hex encoding & ASCII - https://www.youtube.com/watch?v=WW2SaCMnHdU
 ### MANISH AGRAWAL
 
 
-
 Setup lab with bWAPP - https://www.youtube.com/watch?v=dwtUn3giwTk&index=1&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV
 
 Set up Burp Suite - https://www.youtube.com/watch?v=hQsT4rSa_v0&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV&index=2
