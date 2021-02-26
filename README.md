@@ -21,7 +21,9 @@ Content List:
 
 History of the Internet - https://www.youtube.com/watch?v=9hIQjrMHTv4
 
-Phase 2 – Web and Server Technology
+
+
+#### Phase 2 – Web and Server Technology
 
 Basic concepts of web applications, how they work and the HTTP protocol - https://www.youtube.com/watch?v=RsQ1tFLwldY&t=7s
 
