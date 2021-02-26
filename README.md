@@ -80,7 +80,7 @@ Hex encoding & ASCII - https://www.youtube.com/watch?v=WW2SaCMnHdU
 #### Phase 3 – Setting up the lab with BurpSuite and bWAPP
 
 
-<br><br>
+<br>
 ### MANISH AGRAWAL
 
 
@@ -377,7 +377,7 @@ Bypass login panel - case 2 - https://www.youtube.com/watch?v=J6v_W-LFK1c
 #### Phase 9 - Attacking access controls (IDOR, Priv esc, hidden files and directories)
 
 
-<br><br>
+<br>
 ### Completely unprotected functionalities
 
 Finding admin panel - https://www.youtube.com/watch?v=r1k2lgvK3s0
@@ -411,7 +411,7 @@ Privilege escalation - case 2 - https://www.youtube.com/watch?v=-i4O_hjc87Y
 #### Phase 10 – Attacking Input validations (All injections, XSS and mics)
 
 
-<br><br>
+<br>
 ### HTTP verb tampering
 
 Introduction HTTP verb tampering - https://www.youtube.com/watch?v=Wl0PrIeAnhs
