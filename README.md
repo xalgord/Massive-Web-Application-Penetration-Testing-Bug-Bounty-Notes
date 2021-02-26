@@ -20,12 +20,8 @@ Content List:
 #### Phase 1 – History
 
 History of the Internet - https://www.youtube.com/watch?v=9hIQjrMHTv4 
-
-
-
-
-
-
+<br>
+<br>
 
 
 #### Phase 2 – Web and Server Technology
