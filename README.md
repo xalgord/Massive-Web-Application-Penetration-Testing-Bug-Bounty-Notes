@@ -79,7 +79,7 @@ Phase 3 – Setting up the lab with BurpSuite and bWAPP
 
 
 
-MANISH AGRAWAL
+### MANISH AGRAWAL
 
 
 
@@ -109,7 +109,7 @@ Intruder settings - https://www.youtube.com/watch?v=B_Mu7jmOYnU&list=PLv95pq8fEy
 
 
 
-ÆTHER SECURITY LAB
+### ÆTHER SECURITY LAB
 
 
 
@@ -183,7 +183,7 @@ A closer look at all owasp top 10 vulnerabilities - https://www.youtube.com/watc
 
 
 
-IBM
+### IBM
 
 
 
@@ -209,7 +209,7 @@ Unvalidated redirects and forwards - https://www.youtube.com/watch?v=L6bYKiLtSL8
 
 
 
-F5 CENTRAL
+### F5 CENTRAL
 
 
 
@@ -235,7 +235,7 @@ Security misconfiguration - https://www.youtube.com/watch?v=JuGSUMtKTPU&index=6&
 
 
 
-LUKE BRINER
+### LUKE BRINER
 
 
 
