@@ -19,9 +19,7 @@ Content List:
 ## Web Application Penetration Testing
 #### Phase 1 – History
 
-History of the Internet - https://www.youtube.com/watch?v=9hIQjrMHTv4
-
-\
+History of the Internet - https://www.youtube.com/watch?v=9hIQjrMHTv4 \
 
 #### Phase 2 – Web and Server Technology
 
