@@ -80,7 +80,6 @@ Hex encoding & ASCII - https://www.youtube.com/watch?v=WW2SaCMnHdU
 #### Phase 3 – Setting up the lab with BurpSuite and bWAPP
 
 
-<br>
 ### MANISH AGRAWAL
 
 
