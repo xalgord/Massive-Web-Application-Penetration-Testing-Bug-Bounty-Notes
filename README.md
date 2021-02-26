@@ -1,5 +1,5 @@
 # Get Started & Become Expert, Beginners To Expert!
-
+<br><br>
 Content List:
 
 - Phase 1 – History
@@ -15,13 +15,12 @@ Content List:
 - Phase 11 – Generating and testing error codes
 - Phase 12 – Weak cryptography testing
 - Phase 13 – Business logic vulnerability
-
+<br><br>
 ## Web Application Penetration Testing
 #### Phase 1 – History
 
 History of the Internet - https://www.youtube.com/watch?v=9hIQjrMHTv4 
-<br>
-<br>
+<br><br>
 
 
 #### Phase 2 – Web and Server Technology
@@ -75,13 +74,13 @@ HTML encoding - https://www.youtube.com/watch?v=IiAfCLWpgII&t=109s
 Base64 encoding - https://www.youtube.com/watch?v=8qkxeZmKmOY
 
 Hex encoding & ASCII - https://www.youtube.com/watch?v=WW2SaCMnHdU
+<br><br>
 
 
-
-Phase 3 – Setting up the lab with BurpSuite and bWAPP
-
+#### Phase 3 – Setting up the lab with BurpSuite and bWAPP
 
 
+<br><br>
 ### MANISH AGRAWAL
 
 
@@ -111,7 +110,7 @@ Payload settings - https://www.youtube.com/watch?v=5GpdlbtL-1Q&index=11&list=PLv
 Intruder settings - https://www.youtube.com/watch?v=B_Mu7jmOYnU&list=PLv95pq8fEyuivHeZB2jeC435tU3_1YGzV&index=12
 
 
-
+<br><br>
 ### ÆTHER SECURITY LAB
 
 
@@ -131,8 +130,8 @@ Target and spider module - https://www.youtube.com/watch?v=dCKPZUSOlr8&list=PLq9
 Sequencer and scanner module - https://www.youtube.com/watch?v=G-v581pXerE&list=PLq9n8iqQJFDrwFe9AEDBlR1uSHEN7egQA&index=7
 
 
-
-Phase 4 – Mapping the application and attack surface
+<br><br>
+#### Phase 4 – Mapping the application and attack surface
 
 
 
@@ -177,15 +176,15 @@ Map execution path through application - https://www.youtube.com/watch?v=0I0NPiy
 Fingerprint web application frameworks - https://www.youtube.com/watch?v=ASzG0kBoE4c
 
 
-
-Phase 5 – Understanding and exploiting OWASP top 10 vulnerabilities
+<br><br>
+#### Phase 5 – Understanding and exploiting OWASP top 10 vulnerabilities
 
 
 
 A closer look at all owasp top 10 vulnerabilities - https://www.youtube.com/watch?v=avFR_Af0KGk
 
 
-
+<br><br>
 ### IBM
 
 
@@ -211,7 +210,7 @@ Using components with known vulnerabilities - https://www.youtube.com/watch?v=bh
 Unvalidated redirects and forwards - https://www.youtube.com/watch?v=L6bYKiLtSL8&index=10&list=PLoyY7ZjHtUUVLs2fy-ctzZDSPpawuQ28d
 
 
-
+<br><br>
 ### F5 CENTRAL
 
 
@@ -237,7 +236,7 @@ Cross-site scripting - https://www.youtube.com/watch?v=IuzU4y-UjLw&index=7&list=
 Security misconfiguration - https://www.youtube.com/watch?v=JuGSUMtKTPU&index=6&list=PLyqga7AXMtPPuibxp1N0TdyDrKwP9H_jD
 
 
-
+<br><br>
 ### LUKE BRINER
 
 
@@ -263,8 +262,8 @@ Components with known vulnerabilities - https://www.youtube.com/watch?v=pbvDW9pJ
 Unvalidated redirects and forwards - https://www.youtube.com/watch?v=bHTglpgC5Qg&list=PLpNYlUeSK_rkrrBox-xvSkm5lgaDqKa0X&index=10
 
 
-
-Phase 6 – Session management testing
+<br><br>
+#### Phase 6 – Session management testing
 
 
 
@@ -297,8 +296,8 @@ Session puzzling 1 - https://www.youtube.com/watch?v=YEOvmhTb8xA
 Admin bypass using session hijacking - https://www.youtube.com/watch?v=1wp1o-1TfAc
 
 
-
-Phase 7 – Bypassing client-side controls
+<br><br>
+#### Phase 7 – Bypassing client-side controls
 
 
 
@@ -335,8 +334,8 @@ Security headers - https://www.youtube.com/watch?v=TNlcoYLIGFk
 Security headers 2 - https://www.youtube.com/watch?v=ZZUvmVkkKu4
 
 
-
-Phase 8 – Attacking authentication/login
+<br><br>
+#### Phase 8 – Attacking authentication/login
 
 
 
@@ -374,12 +373,12 @@ Bypassing login panel -case 1 - https://www.youtube.com/watch?v=TSqXkkOt6oM
 Bypass login panel - case 2 - https://www.youtube.com/watch?v=J6v_W-LFK1c
 
 
+<br><br>
+#### Phase 9 - Attacking access controls (IDOR, Priv esc, hidden files and directories)
 
-Phase 9 - Attacking access controls (IDOR, Priv esc, hidden files and directories)
 
-
-
-Completely unprotected functionalities
+<br><br>
+### Completely unprotected functionalities
 
 Finding admin panel - https://www.youtube.com/watch?v=r1k2lgvK3s0
 
@@ -388,8 +387,8 @@ Finding admin panel and hidden files and directories - https://www.youtube.com/w
 Finding hidden webpages with dirbusater - https://www.youtube.com/watch?v=--nu9Jq07gA&t=5s
 
 
-
-Insecure direct object reference
+<br><br>
+### Insecure direct object reference
 
 IDOR case 1 - https://www.youtube.com/watch?v=gci4R9Vkulc
 
@@ -398,8 +397,8 @@ IDOR case 2 - https://www.youtube.com/watch?v=4DTULwuLFS0
 IDOR case 3 (zomato) - https://www.youtube.com/watch?v=tCJBLG5Mayo
 
 
-
-Privilege escalation
+<br><br>
+### Privilege escalation
 
 What is privilege escalation - https://www.youtube.com/watch?v=80RzLSrczmc
 
@@ -408,20 +407,20 @@ Privilege escalation - Hackme bank - case 1 - https://www.youtube.com/watch?v=g3
 Privilege escalation - case 2 - https://www.youtube.com/watch?v=-i4O_hjc87Y
 
 
+<br><br>
+#### Phase 10 – Attacking Input validations (All injections, XSS and mics)
 
-Phase 10 – Attacking Input validations (All injections, XSS and mics)
 
-
-
-HTTP verb tampering
+<br><br>
+### HTTP verb tampering
 
 Introduction HTTP verb tampering - https://www.youtube.com/watch?v=Wl0PrIeAnhs
 
 HTTP verb tampering demo - https://www.youtube.com/watch?v=bZlkuiUkQzE
 
 
-
-HTTP parameter pollution
+<br><br>
+### HTTP parameter pollution
 
 Introduction HTTP parameter pollution - https://www.youtube.com/watch?v=Tosp-JyWVS4
 
@@ -432,8 +431,8 @@ HTTP parameter pollution demo 2 - https://www.youtube.com/watch?v=YRjxdw5BAM0
 HTTP parameter pollution demo 3 - https://www.youtube.com/watch?v=kIVefiDrWUw
 
 
-
-XSS - Cross site scripting
+<br><br>
+### XSS - Cross site scripting
 
 Introduction to XSS - https://www.youtube.com/watch?v=gkMl1suyj3M
 
@@ -476,8 +475,8 @@ Stored XSS 4 - https://www.youtube.com/watch?v=YPUBFklUWLc
 Stored XSS 5 - https://www.youtube.com/watch?v=x9Zx44EV-Og
 
 
-
-SQL injection
+<br><br>
+### SQL injection
 
 
 
@@ -528,8 +527,8 @@ Part 22 - Bypassing WAF - Impedance mismatch - https://www.youtube.com/watch?v=y
 Part 23 - Bypassing addslashes - charset mismatch - https://www.youtube.com/watch?v=du-jkS6-sbo&list=PLkiAz1NPnw8qEgzS7cgVMKavvOAdogsro&index=1
 
 
-
-NoSQL injection
+<br><br>
+### NoSQL injection
 
 Introduction to NoSQL injection - https://www.youtube.com/watch?v=h0h37-Dwd_A
 
@@ -540,8 +539,8 @@ Abusing NoSQL databases - https://www.youtube.com/watch?v=lcO1BTNh8r8
 Making cry - attacking NoSQL for pentesters - https://www.youtube.com/watch?v=NgsesuLpyOg
 
 
-
-Xpath and XML injection
+<br><br>
+### Xpath and XML injection
 
 Introduction to Xpath injection - https://www.youtube.com/watch?v=2_UyM6Ea0Yk&t=3102s
 
@@ -562,24 +561,24 @@ XXE demo 2 - https://www.youtube.com/watch?v=UQjxvEwyUUw
 XXE demo 3 - https://www.youtube.com/watch?v=JI0daBHq6fA
 
 
-
-LDAP injection
+<br><br>
+### LDAP injection
 
 Introduction and practical 1 - https://www.youtube.com/watch?v=-TXFlg7S9ks
 
 Practical 2 - https://www.youtube.com/watch?v=wtahzm_R8e4
 
 
-
-OS command injection
+<br><br>
+### OS command injection
 
 OS command injection in bWAPP - https://www.youtube.com/watch?v=qLIkGJrMY9k
 
 bWAAP- OS command injection with Commiux (All levels) - https://www.youtube.com/watch?v=5-1QLbVa8YE
 
 
-
-Local file inclusion
+<br><br>
+### Local file inclusion
 
 Detailed introduction - https://www.youtube.com/watch?v=kcojXEwolIs
 
@@ -588,8 +587,8 @@ LFI demo 1 - https://www.youtube.com/watch?v=54hSHpVoz7A
 LFI demo 2 - https://www.youtube.com/watch?v=qPq9hIVtitI
 
 
-
-Remote file inclusion
+<br><br>
+### Remote file inclusion
 
 Detailed introduction - https://www.youtube.com/watch?v=MZjORTEwpaw
 
@@ -598,28 +597,26 @@ RFI demo 1 - https://www.youtube.com/watch?v=gWt9A6eOkq0
 RFI introduction and demo 2 - https://www.youtube.com/watch?v=htTEfokaKsM
 
 
-
-HTTP splitting/smuggling
+<br><br>
+### HTTP splitting/smuggling
 
 Detailed introduction - https://www.youtube.com/watch?v=bVaZWHrfiPw
 
 Demo 1 - https://www.youtube.com/watch?v=mOf4H1aLiiE
 
 
-
-Phase 11 – Generating and testing error codes
-
-
-
-Generating normal error codes by visiting files that may not exist on the server - for example visit chintan.php or chintan.aspx file on any website and it may redirect you to 
-404.php or 404.aspx or their customer error page. Check if an error page is generated by default web server or application framework or a custom page is displayed which does not 
-405.display any sensitive information.
-Use 
-BurpSuite fuzzing techniques to generate stack trace error codes - https://www.youtube.com/watch?v=LDF6OkcvBzM
+<br><br>
+#### Phase 11 – Generating and testing error codes
 
 
 
-Phase 12 – Weak cryptography testing
+Generating normal error codes by visiting files that may not exist on the server - for example visit chintan.php or chintan.aspx file on any website and it may redirect you to 404.php or 404.aspx or their customer error page. Check if an error page is generated by default web server or application framework or a custom page is displayed which does not 405.display any sensitive information. Use BurpSuite fuzzing techniques to generate stack trace error codes - 
+
+https://www.youtube.com/watch?v=LDF6OkcvBzM
+
+
+<br><br>
+#### Phase 12 – Weak cryptography testing
 
 
 
@@ -632,8 +629,8 @@ Test SSL/TLS security with Qualys guard - https://www.youtube.com/watch?v=Na8Kxq
 Sensitive information sent via unencrypted channels - https://www.youtube.com/watch?v=21_IYz4npRs
 
 
-
-Phase 13 – Business logic vulnerability
+<br><br>
+#### Phase 13 – Business logic vulnerability
 
 
 
@@ -683,3 +680,5 @@ Demo 6 - https://hackerone.com/reports/430854
 
 
 # ENJOY & HAPPY LEARNING! ♥
+
+Follow @xalgord
