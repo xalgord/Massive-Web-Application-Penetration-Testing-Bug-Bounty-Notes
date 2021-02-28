@@ -2,7 +2,7 @@
 <br><br>
 Content List:
 
-- Phase 1 – History
+- Phase 1 – [History](#phase-13--business-logic-vulnerability)
 - Phase 2 – Web and Server Technology
 - Phase 3 – Setting up the lab with BurpSuite and bWAPP
 - Phase 4 – Mapping the application and attack surface
