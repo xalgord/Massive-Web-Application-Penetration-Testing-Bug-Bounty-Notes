@@ -2,19 +2,19 @@
 <br><br>
 Content List:
 
-- Phase 1 – History
-- Phase 2 – Web and Server Technology
-- Phase 3 – Setting up the lab with BurpSuite and bWAPP
-- Phase 4 – Mapping the application and attack surface
-- Phase 5 – Understanding and exploiting OWASP top 10 vulnerabilities
-- Phase 6 – Session management testing
-- Phase 7 – Bypassing client-side controls
-- Phase 8 – Attacking authentication/login
-- Phase 9 - Attacking access controls (IDOR, Priv esc, hidden files and directories)
-- Phase 10 – Attacking Input validations (All injections, XSS and mics)
-- Phase 11 – Generating and testing error codes
-- Phase 12 – Weak cryptography testing
-- Phase 13 – Business logic vulnerability
+- Phase 1 – [History](#phase-1--history)
+- Phase 2 – [Web and Server Technology](#phase-2--web-and-server-technology)
+- Phase 3 – [Setting up the lab with BurpSuite and bWAPP](#phase-3--setting-up-the-lab-with-burpsuite-and-bwapp)
+- Phase 4 – [Mapping the application and attack surface](#phase-4--mapping-the-application-and-attack-surface)
+- Phase 5 – [Understanding and exploiting OWASP top 10 vulnerabilities](#phase-5--understanding-and-exploiting-owasp-top-10-vulnerabilities)
+- Phase 6 – [Session management testing](#phase-6--session-management-testing)
+- Phase 7 – [Bypassing client-side controls](#phase-7--bypassing-client-side-controls)
+- Phase 8 – [Attacking authentication/login](#phase-8--attacking-authenticationlogin)
+- Phase 9 - [Attacking access controls (IDOR, Priv esc, hidden files and directories)](#phase-9---attacking-access-controls-idor-priv-esc-hidden-files-and-directories)
+- Phase 10 – [Attacking Input validations (All injections, XSS and mics)](#phase-10--attacking-input-validations-all-injections-xss-and-mics)
+- Phase 11 – [Generating and testing error codes](#phase-11--generating-and-testing-error-codes)
+- Phase 12 – [Weak cryptography testing](#phase-12--weak-cryptography-testing)
+- Phase 13 – [Business logic vulnerability](#phase-13--business-logic-vulnerability)
 <br><br>
 ## Web Application Penetration Testing
 #### Phase 1 – History
