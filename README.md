@@ -1,4 +1,4 @@
-# Get Started in Pentration Testing, Beginners To Expert!
+# Pentration Testing, Beginners To Expert!
 
 <br/>
 
