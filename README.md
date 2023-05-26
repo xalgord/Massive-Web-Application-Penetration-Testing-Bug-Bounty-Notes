@@ -2,7 +2,7 @@
 
 <br/>
 
-> Note: Some of the links may get 404 in future. It would be helpful if you can provide the replacement of those broken links in the issue section. 
+> **Note**: Some of the links may get 404 in future. It would be helpful if you can provide the replacement of those broken links in the issue section. 
 
 <br/>
 Content List:
