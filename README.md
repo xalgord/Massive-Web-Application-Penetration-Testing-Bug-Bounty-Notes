@@ -22,7 +22,7 @@ Content List:
 - Phase 13 – [Business logic vulnerability](#phase-13--business-logic-vulnerability)
 <br><br>
 ## Web Application Penetration Testing
-#### Phase 1 – History
+## Phase 1 – History
 
 History of the Internet - https://www.youtube.com/watch?v=9hIQjrMHTv4 
 <br><br>
