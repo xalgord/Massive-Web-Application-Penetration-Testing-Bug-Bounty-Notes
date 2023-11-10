@@ -28,7 +28,7 @@ History of the Internet - https://www.youtube.com/watch?v=9hIQjrMHTv4
 <br><br>
 
 
-#### Phase 2 – Web and Server Technology
+## Phase 2 – Web and Server Technology
 
 Basic concepts of web applications, how they work and the HTTP protocol - https://www.youtube.com/watch?v=RsQ1tFLwldY&t=7s
 
@@ -82,7 +82,7 @@ Hex encoding & ASCII - https://www.youtube.com/watch?v=WW2SaCMnHdU
 <br><br>
 
 
-#### Phase 3 – Setting up the lab with BurpSuite and bWAPP
+## Phase 3 – Setting up the lab with BurpSuite and bWAPP
 
 
 ### MANISH AGRAWAL
@@ -134,7 +134,7 @@ Sequencer and scanner module - https://www.youtube.com/watch?v=G-v581pXerE&list=
 
 
 <br><br>
-#### Phase 4 – Mapping the application and attack surface
+## Phase 4 – Mapping the application and attack surface
 
 
 
@@ -180,7 +180,7 @@ Fingerprint web application frameworks - https://www.youtube.com/watch?v=ASzG0kB
 
 
 <br><br>
-#### Phase 5 – Understanding and exploiting OWASP top 10 vulnerabilities
+## Phase 5 – Understanding and exploiting OWASP top 10 vulnerabilities
 
 
 
@@ -261,7 +261,7 @@ Unvalidated redirects and forwards - https://www.youtube.com/watch?v=bHTglpgC5Qg
 
 
 <br><br>
-#### Phase 6 – Session management testing
+## Phase 6 – Session management testing
 
 
 
@@ -295,7 +295,7 @@ Admin bypass using session hijacking - https://www.youtube.com/watch?v=1wp1o-1Tf
 
 
 <br><br>
-#### Phase 7 – Bypassing client-side controls
+## Phase 7 – Bypassing client-side controls
 
 
 
@@ -333,7 +333,7 @@ Security headers 2 - https://www.youtube.com/watch?v=ZZUvmVkkKu4
 
 
 <br><br>
-#### Phase 8 – Attacking authentication/login
+## Phase 8 – Attacking authentication/login
 
 
 
@@ -372,7 +372,7 @@ Bypass login panel - case 2 - https://www.youtube.com/watch?v=J6v_W-LFK1c
 
 
 <br><br>
-#### Phase 9 - Attacking access controls (IDOR, Priv esc, hidden files and directories)
+## Phase 9 - Attacking access controls (IDOR, Priv esc, hidden files and directories)
 
 ### Completely unprotected functionalities
 
@@ -404,7 +404,7 @@ Privilege escalation - case 2 - https://www.youtube.com/watch?v=-i4O_hjc87Y
 
 
 <br><br>
-#### Phase 10 – Attacking Input validations (All injections, XSS and mics)
+## Phase 10 – Attacking Input validations (All injections, XSS and mics)
 
 ### HTTP verb tampering
 
@@ -600,7 +600,7 @@ Demo 1 - https://www.youtube.com/watch?v=mOf4H1aLiiE
 
 
 <br><br>
-#### Phase 11 – Generating and testing error codes
+## Phase 11 – Generating and testing error codes
 
 
 
@@ -610,7 +610,7 @@ https://www.youtube.com/watch?v=LDF6OkcvBzM
 
 
 <br><br>
-#### Phase 12 – Weak cryptography testing
+## Phase 12 – Weak cryptography testing
 
 
 
@@ -624,7 +624,7 @@ Sensitive information sent via unencrypted channels - https://www.youtube.com/wa
 
 
 <br><br>
-#### Phase 13 – Business logic vulnerability
+## Phase 13 – Business logic vulnerability
 
 
 
