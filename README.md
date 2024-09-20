@@ -78,7 +78,7 @@ HTML encoding - https://www.youtube.com/watch?v=IiAfCLWpgII&t=109s
 
 Base64 encoding - https://www.youtube.com/watch?v=8qkxeZmKmOY
 
-Hex encoding & ASCII - https://www.youtube.com/watch?v=WW2SaCMnHdU
+Hex encoding & ASCII - [https://www.youtube.com/watch?v=WW2SaCMnHdU](https://www.youtube.com/watch?v=8ue8febDDKU)
 <br><br>
 
 
