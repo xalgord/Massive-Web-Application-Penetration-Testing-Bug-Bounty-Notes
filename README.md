@@ -1,5 +1,7 @@
 # Pentration Testing, Beginners To Expert!
 
+This guide is designed for both beginners and experienced penetration testers. It covers all web application penetration testing aspects, including foundational concepts, setting up testing environments with tools like Burp Suite and bWAPP, and detailed methodologies for identifying and exploiting vulnerabilities, especially those listed in the OWASP Top 10. The guide also provides practical resources such as video tutorials and links to relevant tools, making it valuable for anyone looking to improve their web application security testing and bug bounty hunting skills.
+
 <br/>
 
 > **Note** - Some of the links may become unavailable (returning a 404 error) in the future. If you come across any broken links, please help us by reporting them in the issue section or submitting a Pull Request to suggest a replacement. 
